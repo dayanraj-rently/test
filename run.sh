@@ -1,3 +1,3 @@
 #! /bin/bash
 
-hostnamectl set-hostname testingg
+hostnamectl set-hostname testingg-over
